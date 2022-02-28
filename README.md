@@ -1,4 +1,4 @@
-This is a simple wallet that can send either testnet bitcoin or testnet ethereum crytpocurrencies to any counterpart address that in a network.The wallet user hd-wallet-derive php library, bit Python Bitcoin library and web3.py Python Ethereum library.It is comprised of 3 functions:
+This is a simple wallet that can send either testnet bitcoin or testnet ethereum crytpocurrencies to any counterpart address in a network.The wallet user hd-wallet-derive php library, bit Python Bitcoin library and web3.py Python Ethereum library.It is comprised of 3 functions:
 
 1.  derive_wallets: Uses mnemonics and hd-wallet-derive php libary to generate 3 children wallets for 3 Crypto currency networks Bitcoin (BTC), Bitcoin-testnet (BTCTEST), Ethereum (ETH)
 
